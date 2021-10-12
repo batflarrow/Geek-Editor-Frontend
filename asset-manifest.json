@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Geek-Editor-Frontend/static/css/main.d24fabd1.chunk.css",
-    "main.js": "/Geek-Editor-Frontend/static/js/main.716d4d7a.chunk.js",
-    "main.js.map": "/Geek-Editor-Frontend/static/js/main.716d4d7a.chunk.js.map",
+    "main.js": "/Geek-Editor-Frontend/static/js/main.ffb6d45f.chunk.js",
+    "main.js.map": "/Geek-Editor-Frontend/static/js/main.ffb6d45f.chunk.js.map",
     "runtime-main.js": "/Geek-Editor-Frontend/static/js/runtime-main.7d28bdf8.js",
     "runtime-main.js.map": "/Geek-Editor-Frontend/static/js/runtime-main.7d28bdf8.js.map",
     "static/js/2.5e2040ea.chunk.js": "/Geek-Editor-Frontend/static/js/2.5e2040ea.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.7d28bdf8.js",
     "static/js/2.5e2040ea.chunk.js",
     "static/css/main.d24fabd1.chunk.css",
-    "static/js/main.716d4d7a.chunk.js"
+    "static/js/main.ffb6d45f.chunk.js"
   ]
 }
